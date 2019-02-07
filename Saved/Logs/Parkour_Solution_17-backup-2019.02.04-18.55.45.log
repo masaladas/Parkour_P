@@ -1,0 +1,1089 @@
+﻿Log file open, 02/04/19 13:42:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Parkour_Solution_17
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.417729
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.216s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Masaladas -epicuserid=6b71f3c01ee840d3821927bf4be26a7f -epiclocale=en-US
+LogInit: Base Directory: D:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:361][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-18.42.41:365][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-18.42.41:366][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-18.42.41:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-18.42.41:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-18.42.41:367][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.04-18.42.41:399][  0]LogHAL: Display: Platform has ~ 16 GB [17055907840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.04-18.42.41:399][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.04-18.42.41:399][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.04-18.42.41:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.04-18.42.41:400][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Scalability.ini]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.04-18.42.41:401][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.04-18.42.41:409][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.04-18.42.41:409][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Config/Windows/Engine.ini]
+[2019.02.04-18.42.41:409][  0]LogInit: Computer: LAPTOP-1MHJT2PQ
+[2019.02.04-18.42.41:409][  0]LogInit: User: Donut
+[2019.02.04-18.42.41:409][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.04-18.42.41:409][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2019.02.04-18.42.41:410][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.04-18.42.41:410][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.04-18.42.41:410][  0]LogMemory: Process Physical Memory: 101.95 MB used, 101.95 MB peak
+[2019.02.04-18.42.41:410][  0]LogMemory: Process Virtual Memory: 91.40 MB used, 91.40 MB peak
+[2019.02.04-18.42.41:410][  0]LogMemory: Physical Memory: 8509.74 MB used,  7756.04 MB free, 16265.78 MB total
+[2019.02.04-18.42.41:410][  0]LogMemory: Virtual Memory: 4652.69 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.02.04-18.42.41:663][  0]LogInit: Using OS detected language (en-US).
+[2019.02.04-18.42.41:663][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.04-18.42.41:664][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.04-18.42.42:222][  0]LogStreaming: Display: Took  0.560s to InitEngineTextLocalization.
+[2019.02.04-18.42.42:223][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.04-18.42.42:330][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.04-18.42.42:330][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.04-18.42.48:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-18.42.48:502][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.04-18.42.48:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2019.02.04-18.42.48:664][  0]LogD3D11RHI:       4053/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.04-18.42.48:681][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.04-18.42.48:681][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.04-18.42.48:687][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.04-18.42.48:687][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.04-18.42.48:687][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.04-18.42.48:760][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.04-18.42.48:760][  0]LogD3D11RHI:     GPU DeviceId: 0x13d7 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.04-18.42.48:760][  0]LogWindows: EnumDisplayDevices:
+[2019.02.04-18.42.48:760][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.04-18.42.48:761][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.04-18.42.48:762][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.04-18.42.48:763][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.02.04-18.42.48:763][  0]LogWindows:    4. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.02.04-18.42.48:764][  0]LogWindows:    5. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.02.04-18.42.48:765][  0]LogWindows:    6. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2019.02.04-18.42.48:765][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.04-18.42.48:765][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2019.02.04-18.42.48:765][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.02.04-18.42.48:765][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.02.04-18.42.48:765][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.02.04-18.42.48:839][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.04-18.42.48:894][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.04-18.42.49:657][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.04-18.42.49:693][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.04-18.42.49:735][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.04-18.42.49:773][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.04-18.42.49:847][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.04-18.42.49:925][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.04-18.42.49:999][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.04-18.42.50:070][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.04-18.42.50:130][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:414][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.04-18.42.50:444][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.04-18.42.50:611][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-18.42.50:611][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.04-18.42.50:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-18.42.50:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.04-18.42.50:711][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.04-18.42.50:749][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.04-18.42.50:794][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.04-18.42.50:851][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.04-18.42.50:970][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-18.42.50:971][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.04-18.42.50:971][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.04-18.42.51:893][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../Documents 2/Spr 19/Workshop/vaultTest/Intermediate/Shaders/WorkingDirectory/23472/).
+[2019.02.04-18.42.51:894][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Donut/AppData/Local/Temp/UnrealShaderWorkingDir/C771AAE94278E2EF2C4E50A026951F4F/'.
+[2019.02.04-18.42.51:898][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.04-18.42.51:899][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.04-18.42.51:899][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.04-18.42.55:494][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Donut/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Donut/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents 2/Spr 19/Workshop/vaultTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents 2/Spr 19/Workshop/vaultTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-18.42.55:568][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.04-18.42.55:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.04-18.42.55:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.04-18.42.55:595][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.04-18.42.55:608][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Donut/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.04-18.42.55:608][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.04-18.42.55:608][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.04-18.42.55:636][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.04-18.42.55:638][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.04-18.42.55:664][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.04-18.42.55:952][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
+[2019.02.04-18.42.56:339][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.04-18.42.56:860][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.04-18.42.56:910][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.04-18.42.56:910][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.04-18.42.56:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.04-18.42.56:910][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.04-18.42.56:961][  0]LogNetVersion: Parkour_Solution_17 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1657190656)
+[2019.02.04-18.42.58:574][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.128305 seconds
+[2019.02.04-18.42.58:581][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.04-18.42.58:581][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.04-18.42.58:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.04-18.43.03:257][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.04-18.43.03:293][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.04-18.43.04:756][  0]SourceControl: Source control is disabled
+[2019.02.04-18.43.04:756][  0]SourceControl: Source control is disabled
+[2019.02.04-18.43.04:789][  0]SourceControl: Source control is disabled
+[2019.02.04-18.43.04:819][  0]SourceControl: Source control is disabled
+[2019.02.04-18.43.05:824][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.04-18.43.06:087][  0]LogOcInput: OculusInput pre-init called
+[2019.02.04-18.43.06:386][  0]LogEngine: Initializing Engine...
+[2019.02.04-18.43.06:387][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.04-18.43.06:389][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-18.43.06:389][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-18.43.06:389][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-18.43.06:389][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-18.43.06:986][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.04-18.43.07:021][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.04-18.43.07:053][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.43.07:117][  0]LogInit: FAudioDevice initialized.
+[2019.02.04-18.43.07:117][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.04-18.43.07:283][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/Donut/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.04-18.43.07:306][  0]LogInit: Texture streaming: Enabled
+[2019.02.04-18.43.07:407][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.04-18.43.07:407][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={36383D56-4F84-815D-E4CC-3AB090F7181E}
+[2019.02.04-18.43.07:460][  0]LogInit: Transaction tracking system initialized
+[2019.02.04-18.43.07:593][  0]BlueprintLog: New page: Editor Load
+[2019.02.04-18.43.08:100][  0]LocalizationService: Localization service is disabled
+[2019.02.04-18.43.09:400][  0]LogFileCache: Scanning file cache for directory 'D:/Documents 2/Spr 19/Workshop/vaultTest/Content/' took 0.02s
+[2019.02.04-18.43.09:400][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.04-18.43.09:400][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.04-18.43.09:400][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.04-18.43.09:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.04-18.43.09:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.04-18.43.09:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.04-18.43.09:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.04-18.43.10:271][  0]SourceControl: Source control is disabled
+[2019.02.04-18.43.10:271][  0]Cmd: MAP LOAD FILE="../../../../../Documents 2/Spr 19/Workshop/vaultTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.04-18.43.10:278][  0]LightingResults: New page: Lighting Build
+[2019.02.04-18.43.10:280][  0]MapCheck: New page: Map Check
+[2019.02.04-18.43.10:280][  0]LightingResults: New page: Lighting Build
+[2019.02.04-18.43.10:739][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.43.10:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.04-18.43.10:786][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.04-18.43.10:786][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.02.04-18.43.10:786][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.515
+[2019.02.04-18.43.10:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.10:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.10:935][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.10:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.10:973][  0]LogCollectionManager: Loaded 0 collections in 0.001163 seconds
+[2019.02.04-18.43.10:989][  0]LogFileCache: Scanning file cache for directory 'D:/Documents 2/Spr 19/Workshop/vaultTest/Saved/Collections/' took 0.01s
+[2019.02.04-18.43.10:989][  0]LogFileCache: Scanning file cache for directory 'D:/Documents 2/Spr 19/Workshop/vaultTest/Content/Developers/Donut/Collections/' took 0.00s
+[2019.02.04-18.43.10:989][  0]LogFileCache: Scanning file cache for directory 'D:/Documents 2/Spr 19/Workshop/vaultTest/Content/Collections/' took 0.00s
+[2019.02.04-18.43.10:989][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.04-18.43.11:003][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2651 classes and 620 folders.
+[2019.02.04-18.43.11:011][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.04-18.43.11:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:301][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:308][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:315][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:322][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.04-18.43.11:505][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.02.04-18.43.11:533][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.04-18.43.13:174][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.04-18.43.13:220][  0]LogSlate: Took 0.008747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.04-18.43.13:233][  0]LogSlate: Took 0.009502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.04-18.43.13:248][  0]LogSlate: Took 0.007688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.04-18.43.13:459][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ParkourSolution17
+[2019.02.04-18.43.13:459][  0]LogTemp: CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.04-18.43.13:459][  0]LogTemp: Initial Dir: D:\Games\UE_4.21
+[2019.02.04-18.43.13:459][  0]LogTemp: Env CWD: D:\Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.04-18.43.13:459][  0]LogTemp: BranchPath = LAPTOP-1MHJT2PQ/D/Games/UE_4.21/Engine/Binaries --- GameBranchPath = LAPTOP-1MHJT2PQ/D/Games/UE_4.21/Engine/Binaries
+[2019.02.04-18.43.13:459][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Donut\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.04-18.43.13:459][  0]LogRenderer: Reallocating scene render targets to support 936x460 Format 10 NumSamples 1 (Frame:1).
+[2019.02.04-18.43.13:640][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.04-18.43.13:641][  0]LogLoad: (Engine Initialization) Total time: 38.23 seconds
+[2019.02.04-18.43.13:641][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.04-18.43.13:701][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.04-18.43.13:731][  0]LogSlate: Took 0.005591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-18.43.13:876][  2]LogAssetRegistry: Asset discovery search completed in 17.9470 seconds
+[2019.02.04-18.43.13:879][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.04-18.43.13:879][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2019.02.04-18.43.17:525][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.43.17:535][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.43.17:556][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.43.17:557][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.43.17:557][ 14]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:43:17 AM)
+[2019.02.04-18.43.17:570][ 14]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.43.17:594][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023645s)
+[2019.02.04-18.43.17:595][ 14]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.43.17:595][ 14]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2019.02.04-18.43.17:595][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025118s)
+[2019.02.04-18.43.17:627][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.43.17:637][ 14]LogInit: FAudioDevice initialized.
+[2019.02.04-18.43.18:424][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.43.18:427][ 14]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.43.18
+[2019.02.04-18.43.18:427][ 14]LogWorld: Bringing up level for play took: 0.001601
+[2019.02.04-18.43.18:444][ 14]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.04-18.43.18:447][ 14]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.186
+[2019.02.04-18.43.18:448][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.43.19:995][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.43.21:397][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.43.22:205][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Mantle
+[2019.02.04-18.43.23:265][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.43.23:265][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.23:306][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.43.23:306][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.43.23:342][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.43.23:394][547]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.02.04-18.43.24:535][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.43.48:551][170]LogSlate: Window 'Select Path' being destroyed
+[2019.02.04-18.44.10:125][383]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (NetworkPlayerStart)
+[2019.02.04-18.44.10:233][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.04-18.44.14:932][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh3)
+[2019.02.04-18.44.15:932][766]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.02.04-18.44.24:293][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.45.26:353][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.45.26:374][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.45.26:375][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.45.26:375][927]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:45:26 AM)
+[2019.02.04-18.45.26:375][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.45.26:392][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017024s)
+[2019.02.04-18.45.26:393][927]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.45.26:393][927]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.02.04-18.45.26:393][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018442s)
+[2019.02.04-18.45.26:436][927]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.45.26:446][927]LogInit: FAudioDevice initialized.
+[2019.02.04-18.45.26:537][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.45.26:539][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.45.26
+[2019.02.04-18.45.26:540][927]LogWorld: Bringing up level for play took: 0.001551
+[2019.02.04-18.45.26:553][927]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.708
+[2019.02.04-18.45.26:553][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.45.28:158][114]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.30:345][374]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Mantle
+[2019.02.04-18.45.33:298][726]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.33:728][777]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.45.34:699][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.45.35:834][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.45.37:091][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.37:709][243]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.38:170][297]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.38:634][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.39:109][405]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:117][406]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:126][407]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:133][408]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:143][409]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:150][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:159][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:167][412]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:176][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:184][414]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:193][415]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:201][416]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:210][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:216][418]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:225][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:233][420]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:242][421]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:251][422]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:259][423]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:268][424]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:276][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:284][426]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:292][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:301][428]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.39:782][484]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:791][485]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:800][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.45.39:809][487]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.40:284][543]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.41:550][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.45.45:767][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.45.48:962][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.45.50:288][721]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.45.52:731][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:740][  8]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:748][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:757][ 10]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:765][ 11]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:774][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:783][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:791][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:800][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:809][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:818][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:826][ 18]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:835][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:844][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:853][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:860][ 22]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:869][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:878][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:887][ 25]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:895][ 26]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:904][ 27]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:912][ 28]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:921][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:928][ 30]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:937][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:946][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:954][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:962][ 34]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:971][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:979][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:988][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.52:996][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:004][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:012][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:021][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:029][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:038][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:046][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:054][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:062][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:070][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:078][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:087][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:095][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:104][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:112][ 52]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:121][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:128][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:137][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:145][ 56]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:154][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:162][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:170][ 59]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:179][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:187][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:195][ 62]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:204][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:212][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:221][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:229][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:238][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:247][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:256][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:264][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:275][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:284][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:295][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:304][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:313][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:324][ 76]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:332][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:343][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:351][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:361][ 80]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:369][ 81]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:380][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:391][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:399][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:410][ 85]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:419][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:427][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:437][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:446][ 89]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:455][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:464][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:473][ 92]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:481][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:492][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:500][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:511][ 96]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail None
+[2019.02.04-18.45.53:531][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.45.54:826][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.45.55:573][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Mantle
+[2019.02.04-18.45.56:769][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.46.03:850][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.46.06:105][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Mantle
+[2019.02.04-18.46.32:814][392]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Mantle
+[2019.02.04-18.46.34:091][517]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.46.34:915][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.34:926][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.34:938][599]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.34:950][600]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.46.34:963][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.46.34:973][602]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.46.34:982][603]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.34:996][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:008][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:019][606]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:031][607]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:044][608]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:056][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.46.35:070][610]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:082][611]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.35:094][612]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.39:433][988]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.46.40:577][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.46.41:545][181]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.46.42:832][308]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.44:702][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.46.46:665][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.47:108][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.47:544][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.52:513][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.46.54:133][284]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.56:677][471]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.46.57:111][507]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.57:123][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.57:135][509]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.46.57:147][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.46.59:486][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall Step
+[2019.02.04-18.46.59:936][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall Step
+[2019.02.04-18.47.00:375][755]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.47.00:387][756]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.47.00:555][766]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.01:035][802]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.01:514][839]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.02:004][878]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.02:511][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:524][914]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:536][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:548][916]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:560][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:572][918]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:584][919]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:595][920]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:624][921]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:638][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:650][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:663][924]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.02:674][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.03:777][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.47.05:396][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.05:396][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.47.05:439][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.47.05:439][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.05:480][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.47.05:506][140]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.04-18.47.10:438][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.47.18:288][634]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.04-18.47.18:330][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.02.04-18.47.20:583][634]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.02.04-18.47.23:307][634]LogSlate: Took 0.025074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.04-18.47.24:588][635]LogSlate: Took 0.009519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.04-18.47.37:947][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.47.38:022][201]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.04-18.47.41:994][362]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.47.42:035][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.42:036][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.47.42:036][362]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:47:42 AM)
+[2019.02.04-18.47.42:036][362]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.47.42:062][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026120s)
+[2019.02.04-18.47.42:064][362]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.47.42:064][362]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2019.02.04-18.47.42:064][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027944s)
+[2019.02.04-18.47.42:161][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.47.42:180][362]LogInit: FAudioDevice initialized.
+[2019.02.04-18.47.42:219][362]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.47.42:224][362]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.47.42
+[2019.02.04-18.47.42:225][362]LogWorld: Bringing up level for play took: 0.004031
+[2019.02.04-18.47.42:241][362]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.98
+[2019.02.04-18.47.42:242][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.43:775][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.48:287][797]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.48:730][830]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.47.49:707][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.47.51:457][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.52:812][111]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.53:247][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.53:743][180]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.54:240][216]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.54:707][254]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.47.54:720][255]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.47.55:216][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.55:217][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.47.55:266][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.47.55:266][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.47.55:332][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.47.55:358][295]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.04-18.47.56:972][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.00:697][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.00:774][574]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.04-18.48.09:735][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.09:820][996]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.04-18.48.12:626][125]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.48.12:663][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.12:663][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.48.12:664][125]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:48:12 AM)
+[2019.02.04-18.48.12:664][125]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.48.12:690][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026192s)
+[2019.02.04-18.48.12:692][125]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.48.12:692][125]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2019.02.04-18.48.12:692][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028236s)
+[2019.02.04-18.48.12:784][125]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.48.12:801][125]LogInit: FAudioDevice initialized.
+[2019.02.04-18.48.12:841][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.48.12:845][125]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.48.12
+[2019.02.04-18.48.12:846][125]LogWorld: Bringing up level for play took: 0.003471
+[2019.02.04-18.48.12:862][125]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.399
+[2019.02.04-18.48.12:863][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.13:968][190]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.14:954][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.48.14:968][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.48.15:958][313]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.48.17:145][378]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.48.17:548][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.17:549][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.48.17:594][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.48.17:594][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.17:660][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.48.17:686][400]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.04-18.48.20:926][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.26:604][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.26:697][820]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.04-18.48.28:677][888]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.48.28:722][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.28:722][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.48.28:722][888]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:48:28 AM)
+[2019.02.04-18.48.28:722][888]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.48.28:746][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023823s)
+[2019.02.04-18.48.28:748][888]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.48.28:748][888]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2019.02.04-18.48.28:749][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026088s)
+[2019.02.04-18.48.28:837][888]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.48.28:856][888]LogInit: FAudioDevice initialized.
+[2019.02.04-18.48.28:898][888]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.48.28:902][888]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.48.28
+[2019.02.04-18.48.28:902][888]LogWorld: Bringing up level for play took: 0.003002
+[2019.02.04-18.48.28:920][888]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.341
+[2019.02.04-18.48.28:920][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.29:842][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.33:471][209]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.34:686][295]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.48.35:690][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.48.38:643][555]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.48.39:080][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.39:549][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.40:041][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.48.40:054][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.48.41:462][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.41:463][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.48.41:510][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.48.41:510][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.41:563][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.48.41:590][769]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.04-18.48.45:707][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.52:807][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.48.52:891][407]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.02.04-18.48.56:914][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.04-18.48.56:964][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.56:965][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.04-18.48.56:965][565]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 4, 2019, 8:48:56 AM)
+[2019.02.04-18.48.56:965][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.04-18.48.56:991][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025719s)
+[2019.02.04-18.48.56:992][565]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.04-18.48.56:993][565]LogPlayLevel: PIE: World Init took: (0.001723s)
+[2019.02.04-18.48.56:993][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027919s)
+[2019.02.04-18.48.57:088][565]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.04-18.48.57:107][565]LogInit: FAudioDevice initialized.
+[2019.02.04-18.48.57:150][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.04-18.48.57:154][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.04-13.48.57
+[2019.02.04-18.48.57:155][565]LogWorld: Bringing up level for play took: 0.003543
+[2019.02.04-18.48.57:173][565]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.089
+[2019.02.04-18.48.57:173][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.48.59:944][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.49.02:032][836]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Mantle
+[2019.02.04-18.49.04:248][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Mantle
+[2019.02.04-18.49.05:582][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.49.06:285][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:299][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:312][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.49.06:326][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.49.06:338][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.49.06:349][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.49.06:387][ 43]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:403][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:420][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:458][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Fall None
+[2019.02.04-18.49.06:473][ 47]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:489][ 48]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.06:517][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge None
+[2019.02.04-18.49.08:582][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Step
+[2019.02.04-18.49.09:665][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.49.10:628][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Rail Vault
+[2019.02.04-18.49.11:961][311]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.49.14:379][452]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.49.16:928][581]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Vault
+[2019.02.04-18.49.17:767][624]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.49.18:206][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Ledge Step
+[2019.02.04-18.49.28:252][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.49.28:253][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.49.28:305][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.04-18.49.28:306][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.04-18.49.28:377][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.04-18.49.28:413][207]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.04-18.49.29:262][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.49.29:442][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.02.04-18.49.37:869][589]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2019.02.04-18.49.37:883][589]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2019.02.04-18.49.38:259][589]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.04-18.52.15:983][396]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.02.04-18.53.15:253][554]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.02.04-18.53.26:664][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.04-18.53.34:535][634]LogTexture: Display: Building textures: T_filter_clouds (AutoDXT, 2048X2048)
+[2019.02.04-18.53.34:535][634]LogTexture: Display: Building textures: T_Sevarog_Torso_Mask1 (AutoDXT, 4096X4096)
+[2019.02.04-18.53.34:535][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Start.Jump_Start
+[2019.02.04-18.53.34:710][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Start.Jump_Start) using current/default (AnimCompress_PerTrackCompression_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.53.34:861][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Land.Jump_Land
+[2019.02.04-18.53.34:863][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Land.Jump_Land) using current/default (AnimCompress_PerTrackCompression_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.53.34:864][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC
+[2019.02.04-18.53.34:866][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CC.Idle_AO_CC) using current/default (AnimCompress_PerTrackCompression_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Torso_N (BC5, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Torso_Mask (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Torso_RGB (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Smoke_01 (AutoDXT, 1024X1024)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_spiritplane_arcs (AutoDXT, 2048X2048)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Metal_Scratched (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_ArmourR_N (BC5, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_RoughMetal01_N2 (BC5, 2048X2048)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_IronRust_Tile_N (BC5, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_IronRust_Tile_D (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Belt_Chainmall_Hammer_RGB (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Belt_Chainmall_Hammer_N (BC5, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Belt_Chainmall_Hammer_Mask1 (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Dark_Leather_N (BC5, 2048X2048)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Black_Linear (AutoDXT, 32X32)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_MarbleVein_D (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_simple_circle_mask (AutoDXT, 512X512)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_Sevarog_Arms_BackCloth_Mask1 (AutoDXT, 4096X4096)
+[2019.02.04-18.54.28:302][634]LogTexture: Display: Building textures: T_TestML_Mask (AutoDXT, 512X512)
+[2019.02.04-18.54.29:445][634]LogTexture: Display: Building textures: T_Sevarog_Machine_Base_RGB (AutoDXT, 4096X4096)
+[2019.02.04-18.54.29:445][634]LogTexture: Display: Building textures: T_AtmosphericCloudNoise03 (BGRA8, 2048X2048)
+[2019.02.04-18.54.30:444][634]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01_N (BC5, 2048X2048)
+[2019.02.04-18.54.32:142][634]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01 (AutoDXT, 2048X2048)
+[2019.02.04-18.54.51:386][634]LogTexture: Display: Building textures: T_Rust01_N (BC5, 2048X2048)
+[2019.02.04-18.54.51:386][634]LogTexture: Display: Building textures: T_Sevarog_Belt_Chainmall_Hammer_Mask (AutoDXT, 4096X4096)
+[2019.02.04-18.54.51:386][634]LogTexture: Display: Building textures: T_Sevarog_Arms_BackCloth_RGB (AutoDXT, 4096X4096)
+[2019.02.04-18.54.51:386][634]LogTexture: Display: Building textures: T_Blue_Metal02 (AutoDXT, 2048X2048)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Sevarog_Arms_BackCloth_N (BC5, 4096X4096)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Sevarog_Metal_Tiling_D (AutoDXT, 2048X2048)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_UnpleasentGrime_D (AutoDXT, 2048X2048)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_OldWeave_NRM (BC5, 1024X1024)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_OldWeave_COLOR (AutoDXT, 1024X1024)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Sevarog_ArmourR_Mask (AutoDXT, 4096X4096)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Weathered__Detail001_Mask (AutoDXT, 2048X2048)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_RoughMetal01_N (BC5, 2048X2048)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Blank_N (BC5, 128X128)
+[2019.02.04-18.55.18:566][634]LogTexture: Display: Building textures: T_Dark_Leather (AutoDXT, 2048X2048)
+[2019.02.04-18.55.33:386][634]LogTexture: Display: Building textures: T_Worn_Under_Leather (AutoDXT, 2048X2048)
+[2019.02.04-18.55.37:299][634]LogTexture: Display: Building textures: T_RoughMetal01 (AutoDXT, 2048X2048)
+[2019.02.04-18.55.41:044][634]LogMaterial: Display: Missing cached shader map for material M_Sevarog_Torso, compiling. 
+[2019.02.04-18.55.41:432][634]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.02.04-18.55.41:432][634]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.02.04-18.55.41:432][634]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.02.04-18.55.41:432][634]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.02.04-18.55.41:432][634]LogMaterial: Display: Missing cached shader map for material M_Sevarog_Back_01, compiling. 
+[2019.02.04-18.55.41:558][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD
+[2019.02.04-18.55.41:559][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CD.Idle_AO_CD) using current/default (AnimCompress_PerTrackCompression_150) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.41:597][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU
+[2019.02.04-18.55.41:598][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LU.Idle_AO_LU) using current/default (AnimCompress_PerTrackCompression_152) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.41:599][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC
+[2019.02.04-18.55.41:599][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LC.Idle_AO_LC) using current/default (AnimCompress_PerTrackCompression_158) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.41:620][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD
+[2019.02.04-18.55.41:621][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_LD.Idle_AO_LD) using current/default (AnimCompress_PerTrackCompression_160) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.41:622][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU
+[2019.02.04-18.55.41:622][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_CU.Idle_AO_CU) using current/default (AnimCompress_PerTrackCompression_149) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.41:632][634]LogMaterial: Display: Missing cached shader map for material M_Sevarog_Hammer_01, compiling. 
+[2019.02.04-18.55.41:858][634]LogMaterial: Display: Missing cached shader map for material M_Sevarog_Chainmail, compiling. 
+[2019.02.04-18.55.42:022][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Apex.Jump_Apex
+[2019.02.04-18.55.42:023][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Apex.Jump_Apex) using current/default (AnimCompress_PerTrackCompression_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:047][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Pose.Jog_Fwd_Pose
+[2019.02.04-18.55.42:047][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Pose.Jog_Fwd_Pose) using current/default (AnimCompress_PerTrackCompression_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:051][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Circle_Rt.Jog_Fwd_Circle_Rt
+[2019.02.04-18.55.42:052][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Circle_Rt.Jog_Fwd_Circle_Rt) using current/default (AnimCompress_PerTrackCompression_148) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:074][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill
+[2019.02.04-18.55.42:074][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Downhill.Jog_Fwd_Downhill) using current/default (AnimCompress_PerTrackCompression_146) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:096][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Recovery_NonAdditive.Jump_Recovery_NonAdditive
+[2019.02.04-18.55.42:128][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jump_Recovery_NonAdditive.Jump_Recovery_NonAdditive) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:167][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Travel_Mode_Start.Travel_Mode_Start
+[2019.02.04-18.55.42:167][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Travel_Mode_Start.Travel_Mode_Start) using current/default (AnimCompress_PerTrackCompression_121) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:630][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Circle_Lt.Jog_Fwd_Circle_Lt
+[2019.02.04-18.55.42:630][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Circle_Lt.Jog_Fwd_Circle_Lt) using current/default (AnimCompress_PerTrackCompression_147) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:654][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd.Jog_Fwd
+[2019.02.04-18.55.42:655][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd.Jog_Fwd) using current/default (AnimCompress_PerTrackCompression_144) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.42:705][634]LogSkeletalMesh: Building Skeletal Mesh Sevarog...
+[2019.02.04-18.55.43:313][634]LogSkeletalMesh: Built Skeletal Mesh [0.62s] /Game/ParagonSevarog/Characters/Heroes/Sevarog/Meshes/Sevarog.Sevarog
+[2019.02.04-18.55.43:426][634]LogMaterial: Display: Missing cached shader map for material M_invis, compiling. 
+[2019.02.04-18.55.43:573][634]LogMaterial: Display: Missing cached shader map for material M_Sevarog_ArmourRuins, compiling. 
+[2019.02.04-18.55.43:880][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill
+[2019.02.04-18.55.43:881][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Jog_Fwd_Uphill.Jog_Fwd_Uphill) using current/default (AnimCompress_PerTrackCompression_145) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.43:928][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU
+[2019.02.04-18.55.43:929][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RU.Idle_AO_RU) using current/default (AnimCompress_PerTrackCompression_154) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.43:931][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD
+[2019.02.04-18.55.43:932][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RD.Idle_AO_RD) using current/default (AnimCompress_PerTrackCompression_162) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.43:974][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC
+[2019.02.04-18.55.43:975][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/AimOffsets/Idle_AO_RC.Idle_AO_RC) using current/default (AnimCompress_PerTrackCompression_156) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.04-18.55.43:977][634]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Swing2_Medium.Swing2_Medium
+[2019.02.04-18.55.43:978][634]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/Swing2_Medium.Swing2_Medium) using current/default (AnimCompress_PerTrackCompression_100) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
