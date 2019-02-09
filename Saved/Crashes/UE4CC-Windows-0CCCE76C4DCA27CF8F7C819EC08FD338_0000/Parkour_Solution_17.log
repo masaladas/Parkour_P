@@ -1,0 +1,1928 @@
+﻿Log file open, 02/08/19 19:17:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Parkour_Solution_17
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.669643
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.149s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.09-00.17.48:191][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.09-00.17.48:192][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:192][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:198][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:198][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.09-00.17.48:198][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.09-00.17.48:198][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:198][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.09-00.17.48:198][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.09-00.17.48:199][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.09-00.17.48:200][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:201][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.09-00.17.48:201][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.09-00.17.48:201][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.09-00.17.48:201][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.09-00.17.48:253][  0]LogHAL: Display: Platform has ~ 4 GB [4216619008 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.09-00.17.48:253][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.09-00.17.48:253][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.09-00.17.48:254][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.09-00.17.48:254][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.09-00.17.48:255][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Scalability.ini]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.09-00.17.48:256][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.09-00.17.48:258][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.09-00.17.48:258][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/robby/Desktop/Parkour_P/Saved/Config/Windows/Engine.ini]
+[2019.02.09-00.17.48:260][  0]LogInit: Computer: DESKTOP-D7O042G
+[2019.02.09-00.17.48:260][  0]LogInit: User: robby
+[2019.02.09-00.17.48:260][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.02.09-00.17.48:260][  0]LogInit: High frequency timer resolution =2.437505 MHz
+[2019.02.09-00.17.48:261][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.02.09-00.17.48:261][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.09-00.17.48:261][  0]LogMemory: Process Physical Memory: 102.36 MB used, 102.36 MB peak
+[2019.02.09-00.17.48:261][  0]LogMemory: Process Virtual Memory: 84.63 MB used, 84.63 MB peak
+[2019.02.09-00.17.48:261][  0]LogMemory: Physical Memory: 3208.17 MB used,  813.11 MB free, 4021.28 MB total
+[2019.02.09-00.17.48:261][  0]LogMemory: Virtual Memory: 4628.97 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.02.09-00.17.48:337][  0]LogInit: Using OS detected language (en-US).
+[2019.02.09-00.17.48:338][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.09-00.17.48:340][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.09-00.17.49:040][  0]LogStreaming: Display: Took  0.703s to InitEngineTextLocalization.
+[2019.02.09-00.17.49:041][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.09-00.17.49:179][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.09-00.17.49:179][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.09-00.17.52:760][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.09-00.17.52:760][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.09-00.17.52:800][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.02.09-00.17.52:801][  0]LogD3D11RHI:       128/0/2010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.02.09-00.17.52:808][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.09-00.17.52:808][  0]LogD3D11RHI:       0/0/2010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.09-00.17.52:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.09-00.17.52:818][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.09-00.17.52:818][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.09-00.17.52:818][  0]LogWindows: EnumDisplayDevices:
+[2019.02.09-00.17.52:818][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.02.09-00.17.52:818][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.02.09-00.17.52:819][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.02.09-00.17.52:819][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.02.09-00.17.52:819][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2019.02.09-00.17.52:819][  0]LogD3D11RHI:   Driver Version: 24.20.100.6299 (internal:24.20.100.6299, unified:24.20.100.6299)
+[2019.02.09-00.17.52:819][  0]LogD3D11RHI:      Driver Date: 10-11-2018
+[2019.02.09-00.17.52:819][  0]LogRHI: Texture pool is 793 MB (70% of 1133 MB)
+[2019.02.09-00.17.52:900][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.02.09-00.17.52:901][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.09-00.17.52:921][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.02.09-00.17.53:512][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.09-00.17.53:534][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.09-00.17.53:558][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.09-00.17.53:582][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.09-00.17.53:615][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.09-00.17.53:638][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.09-00.17.53:660][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.09-00.17.53:685][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.09-00.17.53:696][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:823][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-00.17.53:827][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.09-00.17.53:907][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.09-00.17.53:907][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.09-00.17.53:963][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.09-00.17.53:963][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.09-00.17.53:985][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.09-00.17.54:004][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.09-00.17.54:025][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.09-00.17.54:055][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.09-00.17.54:150][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.09-00.17.54:150][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.09-00.17.54:150][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.09-00.17.54:278][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Users/robby/Desktop/Parkour_P/Intermediate/Shaders/WorkingDirectory/16676/).
+[2019.02.09-00.17.54:278][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/'.
+[2019.02.09-00.17.54:284][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.09-00.17.54:284][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.09-00.17.54:284][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.09-00.17.56:985][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: Loaded boot cache 0.15s 71MB C:/Users/robby/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/robby/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/robby/Desktop/Parkour_P/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/robby/Desktop/Parkour_P/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.09-00.17.57:130][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.09-00.17.57:152][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.09-00.17.57:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.09-00.17.57:152][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.09-00.17.57:164][  0]LogDerivedDataCache: Using Local data cache path C:/Users/robby/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.09-00.17.57:164][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.09-00.17.57:164][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.09-00.17.57:205][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.09-00.17.57:208][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.09-00.17.57:235][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.09-00.17.57:699][  0]LogAssetRegistry: FAssetRegistry took 0.0390 seconds to start up
+[2019.02.09-00.17.58:372][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.09-00.17.58:624][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.09-00.17.58:641][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.09-00.17.58:641][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.09-00.17.58:642][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.09-00.17.58:642][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.09-00.17.58:666][  0]LogNetVersion: Parkour_Solution_17 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1657190656)
+[2019.02.09-00.17.59:618][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.178779 seconds
+[2019.02.09-00.17.59:629][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.09-00.17.59:629][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.09-00.17.59:629][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.09-00.18.04:654][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.09-00.18.04:672][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.09-00.18.05:771][  0]SourceControl: Source control is disabled
+[2019.02.09-00.18.05:771][  0]SourceControl: Source control is disabled
+[2019.02.09-00.18.05:782][  0]SourceControl: Source control is disabled
+[2019.02.09-00.18.05:788][  0]SourceControl: Source control is disabled
+[2019.02.09-00.18.06:176][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.09-00.18.06:316][  0]LogOcInput: OculusInput pre-init called
+[2019.02.09-00.18.06:642][  0]LogEngine: Initializing Engine...
+[2019.02.09-00.18.06:646][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.09-00.18.06:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.09-00.18.06:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.09-00.18.06:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.09-00.18.06:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.09-00.18.07:329][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.09-00.18.07:405][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.09-00.18.07:547][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-00.18.08:135][  0]LogInit: FAudioDevice initialized.
+[2019.02.09-00.18.08:136][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.09-00.18.08:447][  0]LogDerivedDataCache: Saved boot cache 0.31s 71MB C:/Users/robby/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.09-00.18.08:899][  0]LogInit: Texture streaming: Enabled
+[2019.02.09-00.18.09:062][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.09-00.18.09:163][  0]LogInit: Transaction tracking system initialized
+[2019.02.09-00.18.09:251][  0]BlueprintLog: New page: Editor Load
+[2019.02.09-00.18.09:504][  0]LocalizationService: Localization service is disabled
+[2019.02.09-00.18.11:737][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.09-00.18.11:738][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.09-00.18.11:738][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.09-00.18.11:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.09-00.18.11:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.09-00.18.11:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.09-00.18.11:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.09-00.18.11:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/robby/Desktop/Parkour_P/Content/' took 0.07s
+[2019.02.09-00.18.12:212][  0]SourceControl: Source control is disabled
+[2019.02.09-00.18.12:213][  0]Cmd: MAP LOAD FILE="../../../../../../Users/robby/Desktop/Parkour_P/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.09-00.18.12:223][  0]LightingResults: New page: Lighting Build
+[2019.02.09-00.18.12:241][  0]MapCheck: New page: Map Check
+[2019.02.09-00.18.12:241][  0]LightingResults: New page: Lighting Build
+[2019.02.09-00.18.15:839][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.09-00.18.15:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.09-00.18.15:968][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.09-00.18.15:969][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.421ms to complete.
+[2019.02.09-00.18.15:969][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.756
+[2019.02.09-00.18.16:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.18.16:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.18.16:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.18.16:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.18.16:298][  0]LogCollectionManager: Loaded 0 collections in 0.003112 seconds
+[2019.02.09-00.18.16:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/robby/Desktop/Parkour_P/Saved/Collections/' took 0.01s
+[2019.02.09-00.18.16:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/robby/Desktop/Parkour_P/Content/Developers/robby/Collections/' took 0.01s
+[2019.02.09-00.18.16:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/robby/Desktop/Parkour_P/Content/Collections/' took 0.00s
+[2019.02.09-00.18.16:348][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.09-00.18.16:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2651 classes and 620 folders.
+[2019.02.09-00.18.16:388][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.09-00.18.16:407][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.16:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.09-00.18.17:133][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.02.09-00.18.17:149][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.09-00.18.17:385][  0]LogSlate: Took 0.011036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.09-00.18.17:400][  0]LogSlate: Took 0.009892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.09-00.18.17:424][  0]LogSlate: Took 0.012233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.09-00.18.17:710][  0]LogRenderer: Reallocating scene render targets to support 860x468 Format 10 NumSamples 1 (Frame:1).
+[2019.02.09-00.18.18:948][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.02.09-00.18.18:949][  0]LogLoad: (Engine Initialization) Total time: 36.79 seconds
+[2019.02.09-00.18.18:949][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.09-00.18.19:149][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.09-00.18.20:226][  4]LogAssetRegistry: Asset discovery search completed in 22.5501 seconds
+[2019.02.09-00.18.20:235][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.09-00.18.20:235][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000457 seconds (updated 0 objects)
+[2019.02.09-00.18.26:919][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.09-00.20.01:022][411]LogSlate: Took 0.017833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.09-00.20.01:047][411]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MainMenuWidget.MainMenuWidget
+[2019.02.09-00.20.02:696][411]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 117 classes and 0 folders.
+[2019.02.09-00.20.04:803][411]LogSlate: Took 0.008176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.09-00.20.10:179][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-00.20.10:257][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.20.10:259][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-00.20.10:263][577]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 8, 2019, 2:20:10 PM)
+[2019.02.09-00.20.10:311][577]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.09-00.20.10:439][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127370s)
+[2019.02.09-00.20.10:442][577]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.09-00.20.10:451][577]LogPlayLevel: PIE: World Init took: (0.011729s)
+[2019.02.09-00.20.10:451][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.140328s)
+[2019.02.09-00.20.10:553][577]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-00.20.10:627][577]LogInit: FAudioDevice initialized.
+[2019.02.09-00.20.10:694][577]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-00.20.10:718][577]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.02.08-19.20.10
+[2019.02.09-00.20.10:720][577]LogWorld: Bringing up level for play took: 0.024745
+[2019.02.09-00.20.10:773][577]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.02.09-00.20.10:806][577]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.374
+[2019.02.09-00.20.10:808][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.20.16:453][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.20.16:467][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.20.16:549][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-00.20.16:551][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.20.16:619][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.20.16:665][679]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: request failed, libcurl error: 28 (Timeout was reached)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 0 (  Trying 52.203.204.201...)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.203.204.201) port 443 (#0))
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 8 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.02.09-00.20.19:908][771]LogHttp: Warning: 00000127E1C95BC0: libcurl info message cache 9 (Closing connection 0)
+[2019.02.09-00.20.19:923][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC66BF10B-4200-0DB6-236A-5A81CE3E3E53%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=81eba1e2495b2124dcb635bf735e5e02%7Cb4326e2cb078426b83117b88c33b1fd4%7C15d995ae-f32d-4ebf-87f7-30b967e738c2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.09-00.22.15:499][269]BlueprintLog: New page: Compile MainMenuWidget
+[2019.02.09-00.22.19:227][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-00.22.19:283][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.22.19:284][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-00.22.19:291][384]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 8, 2019, 2:22:19 PM)
+[2019.02.09-00.22.19:293][384]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.09-00.22.19:355][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061303s)
+[2019.02.09-00.22.19:364][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.09-00.22.19:369][384]LogPlayLevel: PIE: World Init took: (0.013664s)
+[2019.02.09-00.22.19:369][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.075910s)
+[2019.02.09-00.22.19:438][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-00.22.19:479][384]LogInit: FAudioDevice initialized.
+[2019.02.09-00.22.19:523][384]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-00.22.19:532][384]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.02.08-19.22.19
+[2019.02.09-00.22.19:533][384]LogWorld: Bringing up level for play took: 0.008127
+[2019.02.09-00.22.19:568][384]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.388
+[2019.02.09-00.22.19:569][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.22.23:060][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.22.23:062][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.22.23:139][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-00.22.23:139][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.22.23:197][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.22.23:241][453]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.09-00.22.56:715][642]LogSlate: Took 0.066452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.09-00.23.32:529][309]LogSlate: Took 0.027630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.09-00.28.36:655][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.081
+[2019.02.09-00.28.36:661][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenuWidget] ([1] browsable assets)...
+[2019.02.09-00.28.36:661][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenuWidget]
+[2019.02.09-00.28.36:661][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuWidget" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Saved/Autosaves/Game/MainMenuWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.02.09-00.28.36:772][252]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/MainMenuWidget_Auto12BD672A145DDA93305718481495A22E7.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Saved/Autosaves/Game/MainMenuWidget_Auto1.uasset'
+[2019.02.09-00.28.36:778][252]LogFileHelpers: Auto-saving content packages took 0.120
+[2019.02.09-00.31.12:115][897]BlueprintLog: New page: Compile MainMenuWidget
+[2019.02.09-00.31.14:813][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-00.31.14:900][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.31.14:900][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-00.31.14:900][980]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 8, 2019, 2:31:14 PM)
+[2019.02.09-00.31.14:901][980]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.09-00.31.14:952][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050528s)
+[2019.02.09-00.31.14:955][980]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.09-00.31.14:957][980]LogPlayLevel: PIE: World Init took: (0.004395s)
+[2019.02.09-00.31.14:957][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.055986s)
+[2019.02.09-00.31.15:020][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-00.31.15:047][980]LogInit: FAudioDevice initialized.
+[2019.02.09-00.31.15:095][980]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-00.31.15:102][980]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.02.08-19.31.15
+[2019.02.09-00.31.15:102][980]LogWorld: Bringing up level for play took: 0.006212
+[2019.02.09-00.31.15:124][980]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.056
+[2019.02.09-00.31.15:124][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.31.27:155][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.31.27:157][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.31.27:243][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-00.31.27:243][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.09-00.31.27:291][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-00.31.27:326][183]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.09-00.38.49:511][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2019.02.09-00.38.49:514][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenuWidget] ([1] browsable assets)...
+[2019.02.09-00.38.49:514][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenuWidget]
+[2019.02.09-00.38.49:514][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuWidget" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Saved/Autosaves/Game/MainMenuWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.09-00.38.49:585][448]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/MainMenuWidget_Auto256BF54274E766FCD6433A495708983ED.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Saved/Autosaves/Game/MainMenuWidget_Auto2.uasset'
+[2019.02.09-00.38.49:586][448]LogFileHelpers: Auto-saving content packages took 0.074
+[2019.02.09-01.33.48:489][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:500][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:501][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:502][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.017 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.020 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:505][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.33.48:506][382]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.34.31:914][459]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.429 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.37.02:523][ 52]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Level1.Level1_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.02.09-01.37.02:524][ 52]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Level1.SKEL_Level1_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.02.09-01.37.03:869][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1_BuiltData" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.02.09-01.37.04:433][ 52]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/Level1_BuiltDataBFD5FD9445C0B4CFAAAD2AB697548F64.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Content/ThirdPersonBP/Maps/Level1_BuiltData.uasset'
+[2019.02.09-01.37.04:450][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.09-01.37.04:894][ 52]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/Level12FA5FA994CE58A5859AD22B780163406.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Content/ThirdPersonBP/Maps/Level1.umap'
+[2019.02.09-01.37.05:058][ 52]LogFileHelpers: Saving map 'Level1' took 0.610
+[2019.02.09-01.37.22:056][548]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-01.37.22:142][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.37.22:146][548]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.09-01.37.22:226][548]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2019.02.09-01.37.22:664][548]LogPlayLevel: PlayLevel: Blueprint regeneration took 519 ms (1 blueprints)
+[2019.02.09-01.37.22:665][548]PIE: New page: PIE session: Level1 (Feb 8, 2019, 3:37:22 PM)
+[2019.02.09-01.37.22:673][548]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.37.22:785][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110813s)
+[2019.02.09-01.37.22:822][548]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.37.22:836][548]LogPlayLevel: PIE: World Init took: (0.050059s)
+[2019.02.09-01.37.22:836][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.163920s)
+[2019.02.09-01.37.22:900][548]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-01.37.22:951][548]LogInit: FAudioDevice initialized.
+[2019.02.09-01.37.23:018][548]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.37.23:051][548]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.37.23
+[2019.02.09-01.37.23:057][548]LogWorld: Bringing up level for play took: 0.034272
+[2019.02.09-01.37.23:161][548]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 1.981
+[2019.02.09-01.37.23:165][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.37.26:020][584]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.37.26:028][584]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.37.26:160][584]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.37.26:190][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029992s)
+[2019.02.09-01.37.26:191][584]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.37.26:192][584]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2019.02.09-01.37.26:192][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.032196s)
+[2019.02.09-01.37.26:192][584]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.37.26:217][584]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.37.26
+[2019.02.09-01.37.26:218][584]LogWorld: Bringing up level for play took: 0.024600
+[2019.02.09-01.37.26:229][584]LogLoad: Took 0.201502 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2019.02.09-01.37.32:662][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.37.32:672][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.37.32:786][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-01.37.32:789][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.37.32:840][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.37.32:874][709]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.02.09-01.37.37:278][853]BlueprintLog: New page: Compile MainMenuWidget
+[2019.02.09-01.37.46:257][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuWidget" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Content/MainMenuWidget.uasset" SILENT=true
+[2019.02.09-01.37.46:380][ 62]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/MainMenuWidget892794454061D0027EB979AAC278AB48.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Content/MainMenuWidget.uasset'
+[2019.02.09-01.38.01:609][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-01.38.01:684][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.38.01:684][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-01.38.01:685][570]PIE: New page: PIE session: Level1 (Feb 8, 2019, 3:38:01 PM)
+[2019.02.09-01.38.01:686][570]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.38.01:707][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021236s)
+[2019.02.09-01.38.01:710][570]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.38.01:711][570]LogPlayLevel: PIE: World Init took: (0.004016s)
+[2019.02.09-01.38.01:711][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.025588s)
+[2019.02.09-01.38.01:762][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-01.38.01:786][570]LogInit: FAudioDevice initialized.
+[2019.02.09-01.38.01:830][570]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.38.01:834][570]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.38.01
+[2019.02.09-01.38.01:835][570]LogWorld: Bringing up level for play took: 0.003936
+[2019.02.09-01.38.01:856][570]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.676
+[2019.02.09-01.38.01:857][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.38.06:206][662]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.38.06:248][662]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.38.06:307][662]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.38.06:330][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023608s)
+[2019.02.09-01.38.06:331][662]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.38.06:332][662]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2019.02.09-01.38.06:332][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.025091s)
+[2019.02.09-01.38.06:332][662]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.38.06:355][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.38.06
+[2019.02.09-01.38.06:355][662]LogWorld: Bringing up level for play took: 0.022682
+[2019.02.09-01.38.06:360][662]LogLoad: Took 0.111865 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2019.02.09-01.38.10:283][745]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.38.10:325][745]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.38.10:386][745]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.38.10:421][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035192s)
+[2019.02.09-01.38.10:422][745]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.38.10:422][745]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.02.09-01.38.10:422][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.036765s)
+[2019.02.09-01.38.10:422][745]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.38.10:426][745]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.38.10
+[2019.02.09-01.38.10:427][745]LogWorld: Bringing up level for play took: 0.003641
+[2019.02.09-01.38.10:434][745]LogLoad: Took 0.109951 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2019.02.09-01.38.12:350][786]LogHttp: Warning: 00000127E13A9440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.02.09-01.38.12:350][786]LogHttp: Warning: 00000127E13A9440: libcurl info message cache 0 (Connection 15 seems to be dead!)
+[2019.02.09-01.38.12:351][786]LogHttp: Warning: 00000127E13A9440: libcurl info message cache 1 (Closing connection 15)
+[2019.02.09-01.38.12:351][786]LogHttp: Warning: 00000127E13A9440: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.02.09-01.38.12:351][786]LogHttp: Warning: 00000127E13A9440: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.02.09-01.38.12:351][786]LogHttp: Warning: 00000127E13A9440: libcurl info message cache 4 (Closing connection 16)
+[2019.02.09-01.38.12:351][786]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC66BF10B-4200-0DB6-236A-5A81CE3E3E53%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=81eba1e2495b2124dcb635bf735e5e02%7Cb4326e2cb078426b83117b88c33b1fd4%7C15d995ae-f32d-4ebf-87f7-30b967e738c2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.02.09-01.38.21:675][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.38.21:675][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.38.21:771][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-01.38.21:772][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.38.21:824][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.38.21:847][994]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.09-01.39.48:953][206]BlueprintLog: New page: Compile MainMenuWidget
+[2019.02.09-01.39.57:259][502]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.09-01.39.57:334][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.39.57:334][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-01.39.57:334][502]PIE: New page: PIE session: Level1 (Feb 8, 2019, 3:39:57 PM)
+[2019.02.09-01.39.57:334][502]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.39.57:360][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024898s)
+[2019.02.09-01.39.57:361][502]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.39.57:361][502]LogPlayLevel: PIE: World Init took: (0.001628s)
+[2019.02.09-01.39.57:361][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.026879s)
+[2019.02.09-01.39.57:428][502]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.09-01.39.57:458][502]LogInit: FAudioDevice initialized.
+[2019.02.09-01.39.57:506][502]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.39.57:509][502]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.39.57
+[2019.02.09-01.39.57:510][502]LogWorld: Bringing up level for play took: 0.003612
+[2019.02.09-01.39.57:527][502]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1 0.348
+[2019.02.09-01.39.57:528][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.40.03:006][618]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.40.03:045][618]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.40.03:102][618]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.40.03:126][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023900s)
+[2019.02.09-01.40.03:130][618]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.40.03:130][618]LogPlayLevel: PIE: World Init took: (0.004152s)
+[2019.02.09-01.40.03:130][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.028384s)
+[2019.02.09-01.40.03:130][618]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.40.03:149][618]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.40.03
+[2019.02.09-01.40.03:149][618]LogWorld: Bringing up level for play took: 0.018102
+[2019.02.09-01.40.03:157][618]LogLoad: Took 0.110741 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2019.02.09-01.40.05:655][669]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.40.05:694][669]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level1
+[2019.02.09-01.40.05:762][669]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2019.02.09-01.40.05:779][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017132s)
+[2019.02.09-01.40.05:780][669]LogAIModule: Creating AISystem for world Level1
+[2019.02.09-01.40.05:780][669]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2019.02.09-01.40.05:780][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.018700s)
+[2019.02.09-01.40.05:780][669]LogLoad: Game class is 'ThirdPersonMenuMode_C'
+[2019.02.09-01.40.05:784][669]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.02.08-20.40.05
+[2019.02.09-01.40.05:785][669]LogWorld: Bringing up level for play took: 0.003559
+[2019.02.09-01.40.05:790][669]LogLoad: Took 0.096016 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_Level1)
+[2019.02.09-01.40.06:935][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.40.06:936][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.40.07:047][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.09-01.40.07:047][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.02.09-01.40.07:100][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.09-01.40.07:127][695]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.09-01.40.20:897][282]LogSlate: Window 'Save Content' being destroyed
+[2019.02.09-01.40.20:928][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuWidget" FILE="../../../../../../Users/robby/Desktop/Parkour_P/Content/MainMenuWidget.uasset" SILENT=true
+[2019.02.09-01.40.20:998][282]LogSavePackage: Moving '../../../../../../Users/robby/Desktop/Parkour_P/Saved/MainMenuWidget4DCD03BF444346EB907E5CA6214FB1BE.tmp' to '../../../../../../Users/robby/Desktop/Parkour_P/Content/MainMenuWidget.uasset'
+[2019.02.09-01.40.21:035][282]LogPlayLevel: Launcher Device ID: HTML5@C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+[2019.02.09-01.40.21:111][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.09-01.40.21:112][282]LogCook: Display: Creating asset registry
+[2019.02.09-01.40.22:349][282]LogCook: Display: Discovering localized assets
+[2019.02.09-01.40.22:440][282]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2019.02.09-01.40.22:442][282]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2019.02.09-01.40.22:572][282]LogCook: Display: Cooked content cleared for platform MacClient
+[2019.02.09-01.40.22:572][282]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2019.02.09-01.40.22:664][282]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2019.02.09-01.40.22:664][282]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2019.02.09-01.40.22:746][282]LogCook: Display: Cooked content cleared for platform MacServer
+[2019.02.09-01.40.22:746][282]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2019.02.09-01.40.22:827][282]LogCook: Display: Cooked content cleared for platform Mac
+[2019.02.09-01.40.22:827][282]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2019.02.09-01.40.22:904][282]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2019.02.09-01.40.22:904][282]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2019.02.09-01.40.22:994][282]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.02.09-01.40.22:994][282]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.02.09-01.40.23:089][282]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2019.02.09-01.40.23:089][282]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2019.02.09-01.40.23:212][282]LogCook: Display: Cooked content cleared for platform Windows
+[2019.02.09-01.40.23:213][282]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2019.02.09-01.40.23:322][282]LogCook: Display: Cooked content cleared for platform Android
+[2019.02.09-01.40.23:323][282]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2019.02.09-01.40.23:421][282]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2019.02.09-01.40.23:421][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2019.02.09-01.40.23:509][282]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2019.02.09-01.40.23:510][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2019.02.09-01.40.23:605][282]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2019.02.09-01.40.23:605][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2019.02.09-01.40.23:708][282]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2019.02.09-01.40.23:708][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2019.02.09-01.40.23:819][282]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2019.02.09-01.40.23:820][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2019.02.09-01.40.23:929][282]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2019.02.09-01.40.23:929][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2019.02.09-01.40.24:013][282]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2019.02.09-01.40.24:013][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2019.02.09-01.40.24:095][282]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2019.02.09-01.40.24:096][282]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2019.02.09-01.40.24:184][282]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2019.02.09-01.40.24:184][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2019.02.09-01.40.24:262][282]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2019.02.09-01.40.24:263][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2019.02.09-01.40.24:340][282]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2019.02.09-01.40.24:340][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2019.02.09-01.40.24:424][282]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2019.02.09-01.40.24:424][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2019.02.09-01.40.24:503][282]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2019.02.09-01.40.24:503][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2019.02.09-01.40.24:597][282]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2019.02.09-01.40.24:597][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2019.02.09-01.40.24:686][282]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2019.02.09-01.40.24:687][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2019.02.09-01.40.24:784][282]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2019.02.09-01.40.24:785][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2019.02.09-01.40.24:888][282]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2019.02.09-01.40.24:888][282]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2019.02.09-01.40.24:966][282]LogCook: Display: Cooked content cleared for platform HTML5
+[2019.02.09-01.40.24:966][282]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2019.02.09-01.40.25:032][282]LogCook: Display: Cooked content cleared for platform IOSClient
+[2019.02.09-01.40.25:032][282]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2019.02.09-01.40.25:116][282]LogCook: Display: Cooked content cleared for platform IOS
+[2019.02.09-01.40.25:117][282]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2019.02.09-01.40.25:191][282]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2019.02.09-01.40.25:192][282]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2019.02.09-01.40.25:274][282]LogCook: Display: Cooked content cleared for platform TVOS
+[2019.02.09-01.40.25:274][282]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2019.02.09-01.40.25:372][282]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2019.02.09-01.40.25:372][282]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2019.02.09-01.40.25:473][282]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2019.02.09-01.40.25:473][282]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2019.02.09-01.40.25:580][282]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2019.02.09-01.40.25:580][282]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2019.02.09-01.40.25:682][282]LogCook: Display: Cooked content cleared for platform Linux
+[2019.02.09-01.40.25:682][282]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2019.02.09-01.40.25:766][282]LogCook: Display: Cooked content cleared for platform Lumin
+[2019.02.09-01.40.25:767][282]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2019.02.09-01.40.25:849][282]LogCook: Display: Cooked content cleared for platform LuminClient
+[2019.02.09-01.40.25:850][282]LogCook: Display: Unable to read previous cook inisettings for platform LuminClient invalidating cook
+[2019.02.09-01.40.25:936][282]LogCook: Display: Sandbox cleanup took 3.495 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative false
+[2019.02.09-01.40.29:948][282]LogMaterial: Verifying Global Shaders for GLSL_ES2_WEBGL
+[2019.02.09-01.42.44:496][282]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 423
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 422
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 421
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 419
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 418
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 417
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 416
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 415
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 413
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 412
+[2019.02.09-01.42.44:499][282]LogShaderCompilers: Display: Shaders left to compile 411
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 409
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 408
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 407
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 406
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 405
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 404
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 403
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 402
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 401
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 399
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 398
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 397
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 396
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 395
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 394
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 393
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 392
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 391
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 389
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 388
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 387
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 386
+[2019.02.09-01.42.44:500][282]LogShaderCompilers: Display: Shaders left to compile 385
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 383
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 382
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 381
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.02.09-01.42.44:501][282]LogShaderCompilers: Display: Shaders left to compile 379
+[2019.02.09-01.42.44:501][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/0/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 378
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 377
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 376
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 375
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 373
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 371
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 369
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 368
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 367
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 366
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 365
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 363
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 362
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 361
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 359
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 358
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 357
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 356
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 355
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 353
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 352
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 351
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 349
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 348
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 347
+[2019.02.09-01.42.44:502][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/0/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 346
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 345
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 343
+[2019.02.09-01.42.44:502][282]LogShaderCompilers: Display: Shaders left to compile 342
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 341
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 339
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 338
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 337
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 336
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 335
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 333
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 332
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 331
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 329
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 328
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 327
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 326
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 325
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 323
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 322
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 321
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 319
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 318
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 317
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 316
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 315
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 313
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 312
+[2019.02.09-01.42.44:503][282]LogShaderCompilers: Display: Shaders left to compile 311
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 309
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 308
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 307
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 306
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 305
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 303
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 302
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 301
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 299
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 298
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 297
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 296
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 295
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 293
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 292
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 291
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 289
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 288
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 287
+[2019.02.09-01.42.44:504][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/2/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 286
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 285
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 283
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 282
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 281
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 279
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 278
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 277
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 276
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 275
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.02.09-01.42.44:504][282]LogShaderCompilers: Display: Shaders left to compile 273
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 272
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 271
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 269
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 268
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 267
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 265
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 263
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 262
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 261
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 259
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 258
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 257
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 255
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 253
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 252
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 251
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 249
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 248
+[2019.02.09-01.42.44:505][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/1/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 247
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 245
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 243
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 242
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 241
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 239
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 238
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 237
+[2019.02.09-01.42.44:505][282]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 235
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 233
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 232
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 231
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 229
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 228
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 227
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 225
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 223
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 222
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 221
+[2019.02.09-01.42.44:506][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/2/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 219
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 218
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 217
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 215
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.02.09-01.42.44:506][282]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 212
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 211
+[2019.02.09-01.42.44:507][282]LogFileManager: Warning: Error deleting file: C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/0/WorkerOutputOnly.out (Error Code 32)
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 209
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 207
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 205
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 201
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 199
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 197
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 195
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 191
+[2019.02.09-01.42.44:507][282]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 189
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 187
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 185
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 181
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 179
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 177
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.02.09-01.42.44:508][282]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.02.09-01.42.44:509][282]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.02.09-01.42.44:510][282]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/0D49CF47D4BDFA9C11C735586278EBBF7' to 'C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/0/WorkerInputOnly.in', retrying in .5s...
+[2019.02.09-01.42.44:510][282]LogFileManager: Warning: MoveFile recovered during retry!
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.09-01.42.44:510][282]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.09-01.42.44:511][282]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.09-01.42.44:512][282]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.09-01.42.44:513][282]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.09-01.42.45:524][283]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.42.45:524][283]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.09-01.42.45:533][283]LogCook: Display: Cooked packages 0 Packages Remain 480 Total 480
+[2019.02.09-01.42.46:171][285]LogAIModule: Creating AISystem for world Entry
+[2019.02.09-01.42.46:385][286]LogCook: Display: Cooked packages 0 Packages Remain 481 Total 481
+[2019.02.09-01.42.46:797][287]LogTexture: Display: Building textures: Blueprint_64x (RGBA8, 64X64)
+[2019.02.09-01.42.46:797][287]LogMaterial: Display: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2019.02.09-01.42.46:924][288]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.09-01.42.46:924][288]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.09-01.42.46:924][288]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.09-01.42.47:026][288]LogTexture: Display: Building textures: S_ExpoHeightFog (RGBA8, 256X256)
+[2019.02.09-01.42.47:026][288]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0043 seconds. Added 0 classes and 0 folders.
+[2019.02.09-01.42.47:192][289]LogCook: Display: Cooked packages 2 Packages Remain 480 Total 482
+[2019.02.09-01.42.47:393][289]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.02.09-01.49.00:855][289]LogShaderCompilers: Display: Shaders left to compile 527
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 526
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 525
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 524
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 523
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 522
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 521
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 520
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 519
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 518
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 517
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 516
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 515
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 514
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 513
+[2019.02.09-01.49.00:862][289]LogShaderCompilers: Display: Shaders left to compile 512
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 511
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 510
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 509
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 508
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 507
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 506
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 505
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 504
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 503
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 502
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 501
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 500
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 499
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 498
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 497
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 496
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 495
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 494
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 493
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 492
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 491
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 490
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 489
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 488
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 487
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 486
+[2019.02.09-01.49.00:863][289]LogShaderCompilers: Display: Shaders left to compile 485
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 484
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 483
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 482
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 481
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 480
+[2019.02.09-01.49.00:864][289]LogShaderCompilers: Display: Shaders left to compile 479
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 478
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 477
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 476
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 475
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 474
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 473
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 472
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 471
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 470
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 469
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 468
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 467
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 466
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 465
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 464
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 463
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 462
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 461
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 460
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 459
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 458
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 457
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 456
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 455
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 454
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 453
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 452
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 451
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 450
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 449
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 448
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 447
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 446
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 445
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 444
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 443
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 442
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 441
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 440
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 439
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 438
+[2019.02.09-01.49.00:865][289]LogShaderCompilers: Display: Shaders left to compile 437
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 436
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 435
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 434
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 433
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 432
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 431
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 430
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 429
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 428
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 427
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 426
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 425
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 423
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 422
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 421
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 419
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 418
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 417
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 416
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 415
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 413
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 412
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 411
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 409
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 408
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 407
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 406
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 405
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 404
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 403
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 402
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 401
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 399
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 398
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 397
+[2019.02.09-01.49.00:866][289]LogShaderCompilers: Display: Shaders left to compile 396
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 395
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 394
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 393
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 392
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 391
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 389
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 388
+[2019.02.09-01.49.00:867][289]LogShaderCompilers: Display: Shaders left to compile 387
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 386
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 385
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 383
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 382
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 381
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 379
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 378
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 377
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 376
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 375
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 373
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 371
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 369
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 368
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 367
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 366
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 365
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.02.09-01.49.00:868][289]LogShaderCompilers: Display: Shaders left to compile 363
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 362
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 361
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 359
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 358
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 357
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 356
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 355
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 353
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 352
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 351
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 349
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 348
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 347
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 346
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 345
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 343
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 342
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 341
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 339
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 338
+[2019.02.09-01.49.00:869][289]LogShaderCompilers: Display: Shaders left to compile 337
+[2019.02.09-01.49.00:871][289]LogShaderCompilers: Display: Shaders left to compile 336
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 335
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 333
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 332
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 331
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 329
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 328
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 327
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 326
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 325
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 323
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 322
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 321
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 319
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 318
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 317
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 316
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 315
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 313
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 312
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 311
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 309
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 308
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 307
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 306
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 305
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 303
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 302
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 301
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 299
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 298
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 297
+[2019.02.09-01.49.00:872][289]LogShaderCompilers: Display: Shaders left to compile 296
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 295
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 293
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 292
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 291
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 289
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 288
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 287
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 286
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 285
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 283
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 282
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 281
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 279
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 278
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 277
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 276
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 275
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 273
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 272
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 271
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 269
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 268
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 267
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 266
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 265
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 263
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 262
+[2019.02.09-01.49.00:873][289]LogShaderCompilers: Display: Shaders left to compile 261
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 259
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 258
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 257
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 256
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 255
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 253
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 252
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 251
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 249
+[2019.02.09-01.49.00:874][289]LogShaderCompilers: Display: Shaders left to compile 248
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 247
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 246
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 245
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 243
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 242
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 241
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 239
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 238
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 237
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 236
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 235
+[2019.02.09-01.49.00:875][289]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 233
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 232
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 231
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 229
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 228
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 227
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 226
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 225
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 223
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 222
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 221
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 219
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 218
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 217
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 216
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 215
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 212
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 211
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 209
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.02.09-01.49.00:876][289]LogShaderCompilers: Display: Shaders left to compile 207
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 206
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 205
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 202
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 201
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 199
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Display: Shaders left to compile 197
+[2019.02.09-01.49.00:877][289]LogShaderCompilers: Error: ShaderCompileWorker failed:
+Couldn't delete input file C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/2/WorkerInputOnly.in, is it readonly?
+
+[2019.02.09-01.49.00:877][289]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.02.09-01.49.00:878][289]LogShaderCompilers: Error: Expecting ShaderCompilerWorker Single Jobs 83, got 0 instead! Forgot to build ShaderCompilerWorker?
+[2019.02.09-01.49.00:878][289]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.02.09-01.49.00:878][289]LogShaderCompilers: Error: ShaderCompileWorker returned 0 single jobs, 1 expected
+[2019.02.09-01.49.00:879][289]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.02.09-01.49.00:879][289]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/2/WorkerOutputOnly.out, size=2648)
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Error: Expecting ShaderCompilerWorker Pipeline Jobs 80, got -1 instead! Forgot to build ShaderCompilerWorker?
+[2019.02.09-01.49.00:879][289]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.02.09-01.49.00:879][289]LogFileManager: Error: Requested read of 4 bytes when 0 bytes remain (file=C:/Users/robby/AppData/Local/Temp/UnrealShaderWorkingDir/EF96B32841ECB655AE912D96A6CAFCC3/2/WorkerOutputOnly.out, size=2648)
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 196
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 195
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 192
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 191
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 189
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 187
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 186
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 185
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.02.09-01.49.00:879][289]LogShaderCompilers: Display: Shaders left to compile 182
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 181
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 179
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 177
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 176
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 175
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 172
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 171
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 167
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 166
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 165
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 162
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 161
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 157
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 156
+[2019.02.09-01.49.00:880][289]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 152
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 151
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 147
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.02.09-01.49.00:881][289]LogShaderCompilers: Display: Shaders left to compile 142
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 141
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 137
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 132
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 131
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 127
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.02.09-01.49.00:882][289]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 122
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 121
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 112
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 111
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 102
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 101
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 92
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 91
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.02.09-01.49.00:883][289]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.09-01.49.00:884][289]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.09-01.49.00:885][289]LogShaderCompilers: Warning: 0 Shader compiler errors compiling WorldGridMaterial for platform GLSL_ES2_WEBGL:
+[2019.02.09-01.49.00:943][289]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.09-01.49.00:945][289]LogWindows: Windows GetLastError: The operation completed successfully. (0)
